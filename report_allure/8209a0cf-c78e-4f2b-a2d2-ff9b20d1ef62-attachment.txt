@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_login_ddt.py:16 ******* Starting Test_002_DDT_Login Test **********
+[32mINFO    [0m root:test_login_ddt.py:17 ******* Starting Login DDT Test **********
+[32mINFO    [0m root:test_login_ddt.py:42 **** passed ****
